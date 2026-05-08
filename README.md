@@ -1,4 +1,3 @@
-markdown
 # Hi, I'm Luis Morales
 
 Project Engineer (Australia) — currently up-skilling toward an AI-systems engineering posture on a 6-month builder pathway.
